@@ -27,5 +27,4 @@ def juego_del_dado():
     El primero en sumar 30 puntos gana.
     """
 
-print('xd')
 juego_del_dado()
